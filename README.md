@@ -1,2 +1,2 @@
 # exercice
-exercice sur github
+exercice sur github et git
